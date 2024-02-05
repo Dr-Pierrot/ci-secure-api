@@ -27,5 +27,7 @@
     "style-loader": "^3.3.4",
     "webpack": "^5.90.1",
     "webpack-cli": "^5.1.4"
-  }
+  },
+  "repository": "https://github.com/Dr-Pierrot/ci-secure-api.git",
+  "author": "Dr-Pierrot <Capulongako16@gmail.com>"
 }
